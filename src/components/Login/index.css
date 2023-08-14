@@ -1,0 +1,9 @@
+/* Write your CSS here */
+button {
+  background-color: #ffffff;
+  padding: 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  border-width: none;
+}

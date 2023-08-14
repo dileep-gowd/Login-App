@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.bg-cont {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cont {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  border-radius: 10px;
+}
